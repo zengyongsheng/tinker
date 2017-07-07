@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
     private void initView(){
         tv=(TextView)this.findViewById(R.id.tv);
         tv.setText("改变当前的内容....");
-        Toast.makeText(this, "改变当前的内容....", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "改变当前的内容xxxxccc....", Toast.LENGTH_SHORT).show();
     }
 }
